@@ -11,15 +11,15 @@ print("Hello, World!")
 
 // 10 вариантов Dictionary
 
-let colorWarm : [Int:String] = [0 : "red", 1 : "orange", 2 : "yellow"]
-let colorCold : [String:Int] = ["blue" : 0, "green" : 1]
-let tvDiagonal : [String:String] = ["inch20" : "centimeter50.8", "inch21" : "centimeter53.34", "inch22" : "centimeter55.88"]
-let bottleOilVolume : [String:Float] = ["oilSmall" : 0.33, "oilMiddle" : 0.5, "oilBig" : 0.9]
+let colorWarm = [0 : "red", 1 : "orange", 2 : "yellow"]
+let colorCold = ["blue" : 0, "green" : 1]
+let tvDiagonal = ["inch20" : "centimeter50.8", "inch21" : "centimeter53.34", "inch22" : "centimeter55.88"]
+let bottleOilVolume = ["oilSmall" : 0.33, "oilMiddle" : 0.5, "oilBig" : 0.9]
 let lineupMazda = ["sedan" : "mazda6", "crossover" : "mazdaCX-5"]
 
-let monthRus : [Int:String] = [1 : "январь", 2: "февраль", 3 : "март", 4 : "апрель", 5 : "май", 6 : "июнь", 7 : "июль", 8 : "август", 9 : "сентябрь", 10 : "октябрь", 11 : "ноябрь", 12 : "декабрь"]
+let monthRus = [1 : "январь", 2: "февраль", 3 : "март", 4 : "апрель", 5 : "май", 6 : "июнь", 7 : "июль", 8 : "август", 9 : "сентябрь", 10 : "октябрь", 11 : "ноябрь", 12 : "декабрь"]
 
-let monthEng : [String:String] = ["one" : "january", "two" : "february", "three" : "march", "four" : "april", "five" : "may", "six" :"june", "seven" : "july", "eight" : "august", "nine" : "september", "ten" : "october", "eleven" : "november", "twelve" : "december"]
+let monthEng = ["one" : "january", "two" : "february", "three" : "march", "four" : "april", "five" : "may", "six" :"june", "seven" : "july", "eight" : "august", "nine" : "september", "ten" : "october", "eleven" : "november", "twelve" : "december"]
 
 let translateDesWord = ["mockup" : "схема макета", "icon" : "иконка", "clipart" : "картинка",  "cv" : "резюме"]
 let footballClub = ["Zenit" : "Saint Petersburg", "Spartac" : "Moscow", "Rubin" : "Kazan", "Kryl'ya sovetov" : "Samara"]
